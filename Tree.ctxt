@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=levelAssigned
+comment1.target=Tree(int)
+comment2.params=
+comment2.target=boolean\ isTreeAxed()
+comment3.params=
+comment3.target=boolean\ checkRedAppleSpawn()
+comment4.params=
+comment4.target=boolean\ checkGreenAppleSpawn()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ redAppleSpawn()
+comment7.params=
+comment7.target=void\ greenAppleSpawn()
+comment8.params=
+comment8.target=void\ leafSpawn()
+comment9.params=
+comment9.target=void\ axeTree()
+numComments=10

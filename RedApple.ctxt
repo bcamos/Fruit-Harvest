@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RedApple
+comment1.params=
+comment1.target=int\ getDeaths()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ addDeath()
+comment5.params=
+comment5.target=void\ falling()
+comment6.params=
+comment6.target=void\ checkForDeath()
+numComments=7
